@@ -1,1 +1,1 @@
-It was the sounding of your cat crying out for food.
+It was the sound of your cat crying out for food.
