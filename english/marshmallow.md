@@ -16,7 +16,7 @@ Was it the sound of a cry from the shower?
 
 It sounded like it could have been a [heffalump](heffalump/heffalump.md)
 
-No... perhaps not.
+No... perhaps [not](not/not.md).
 
 Thinking back, there are no memories to suggest that this should have been
 anything but an ordinary morning. You didn't go out last night, you don't
